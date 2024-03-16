@@ -1,0 +1,38 @@
+[
+  {
+  "users": [
+    {
+      "id": 1,
+      "username": "flutterFan123",
+      "email": "flutterfan@example.com",
+      "fullName": "John Doe",
+      "age": 25,
+      "country": "USA",
+      "interests": ["Flutter", "Dart", "Mobile Development"],
+      "avatarUrl": "https://example.com/avatar.jpg",
+      "createdAt": "2024-03-16T08:00:00Z"
+    },
+    {
+      "id": 2,
+      "username": "dev_guru",
+      "email": "devguru@example.com",
+      "fullName": "Jane Smith",
+      "age": 30,
+      "country": "Canada",
+      "interests": ["Flutter", "UI/UX Design", "Firebase"],
+      "avatarUrl": "https://example.com/avatar2.jpg",
+      "createdAt": "2024-03-16T08:30:00Z"
+    },
+    {
+      "id": 3,
+      "username": "code_ninja",
+      "email": "codeninja@example.com",
+      "fullName": "Alex Johnson",
+      "age": 28,
+      "country": "UK",
+      "interests": ["Flutter", "Machine Learning", "Python"],
+      "avatarUrl": "https://example.com/avatar3.jpg",
+      "createdAt": "2024-03-16T09:00:00Z"
+    }
+  ]
+}]
